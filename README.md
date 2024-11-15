@@ -2,7 +2,7 @@ Ciao Ragazzi,
 esercizio di oggi: node-hello-world
 repo: node-hello-world
 
-Esercizio
+Esercizio:
 Creiamo la prima applicazione con NodeJs e inizializziamola con npm init
 Scriviamo un file index.js che dovrà stampare nel terminale “Hello World”.
 Proviamo ad eseguirlo dal terminale stesso usando i comandi di node base.
