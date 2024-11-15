@@ -7,4 +7,4 @@ console.log(javascriptPath);
 console.log(param);
  */
 
-console.log("Hello world");
+console.log("Hello Boolean");
